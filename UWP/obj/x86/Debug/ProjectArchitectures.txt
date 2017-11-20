@@ -1,0 +1,2 @@
+C:\Users\Yacine Yakoubi\Desktop\VoiceUp\Todo\Todo.csproj;neutral
+C:\Users\Yacine Yakoubi\Desktop\VoiceUp\UWP\Todo.UWP.csproj;x86
